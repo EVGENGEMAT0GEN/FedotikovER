@@ -10,12 +10,10 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>,
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>,
-  </div>
-  
-  
-  [HEMA](https://nn-hema-fencing-ekb.ru/).
+  </div>&nbsp;.
+  Так к же занимаюсь [HEMA](https://nn-hema-fencing-ekb.ru/), для поддержания формы и здоровья🤺.
 
-https://thumb.tildacdn.com/tild6664-3139-4439-b839-373432393231/-/resize/180x/-/format/webp/NNM_NEW_3_03.png
+
 
 Для подготовки к должности QA-инженера проходил курсы по направлению "Тестирование ПО" от компании Skypro (https://sky.pro/courses/programming/qa-engineer).
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
