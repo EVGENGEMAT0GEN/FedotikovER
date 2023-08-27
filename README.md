@@ -2,7 +2,7 @@
 **Портфолио manual QA-engineer** 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/8wsIfzghzPjMmjngPW/giphy.gif" width="100" align="center"/>
+  <img src="https://media.giphy.com/media/8wsIfzghzPjMmjngPW/giphy.gif" width="200" align="center"/>
 </div>
 
 Обо мне
