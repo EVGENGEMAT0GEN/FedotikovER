@@ -1,5 +1,8 @@
 # FedotikovER
 **Портфолио manual QA-engineer** 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/8wsIfzghzPjMmjngPW/giphy.gif)" width="100"/>
+</div>
 Обо мне
 Привет! Меня зовут Евгений, я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
