@@ -8,8 +8,8 @@
 Обо мне
   Привет! Меня зовут Евгений, я начинающий тестировщик. В настоящее время я прохожу курсы по направлению "Тестирование ПО" от компании [Skypro](https://sky.pro/courses/programming/qa-engineer). Так же самостоятельно изучаю основы автоматизированного тестирования с помощью инструмента Selenium. В свободное время занимаюсь изучением языков программирования, таких как  
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;,
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;,
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>,
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>,
   </div>
   
   
