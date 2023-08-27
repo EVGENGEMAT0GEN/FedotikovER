@@ -6,7 +6,7 @@
 </div>
 
 Обо мне
-  Привет! Меня зовут Евгений, я начинающий тестировщик. В настоящее время я прохожу курсы по направлению "Тестирование ПО" от компании [Skypro](https://sky.pro/courses/programming/qa-engineer). Так же самостоятельно изучаю основы автоматизированного тестирования с помощью инструмента Selenium. В свободное время занимаюсь изучением языков программирования, таких как ![](https://www.clipartmax.com/png/middle/288-2886125_build-a-date-and-time-script-python-icon.png)  [HEMA](https://nn-hema-fencing-ekb.ru/).
+  Привет! Меня зовут Евгений, я начинающий тестировщик. В настоящее время я прохожу курсы по направлению "Тестирование ПО" от компании [Skypro](https://sky.pro/courses/programming/qa-engineer). Так же самостоятельно изучаю основы автоматизированного тестирования с помощью инструмента Selenium. В свободное время занимаюсь изучением языков программирования, таких как ![]("https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" size= "10")  [HEMA](https://nn-hema-fencing-ekb.ru/).
 
 https://thumb.tildacdn.com/tild6664-3139-4439-b839-373432393231/-/resize/180x/-/format/webp/NNM_NEW_3_03.png
 
