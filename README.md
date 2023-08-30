@@ -17,7 +17,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNtZHNoeTE1b2Q3eXJoeGo2MHB6MG1sMnpqeTRtbmU2ZDdlbWhuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AiERKpGcwARAMZNxQe/giphy.gif" width="200" align="right"/>
   </div>
 
-##Мои навыки и технологии:
+**Мои навыки и технологии:
+Я умею работать с 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>,
