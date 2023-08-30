@@ -20,21 +20,15 @@
 ##Мои навыки и технологии:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>,
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>,
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>,
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>,
+  <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/png/devtools-circle-128.png" width="40" height="40"/>,
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/swagger.svg" width="40" height="40"/>
 </div>
-Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello,
-SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
+
+
 Проекты
 Проект 1: тест веб-приложения для учителей от Skyeng
 
