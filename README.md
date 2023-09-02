@@ -35,7 +35,7 @@
 ## Проекты:
 **Проект 1:Тестирование раздела "Календарь событий для учителей" WEB-приложения платформы skyeng.**
 Заказчик: Skyeng.ru\
-Сайт: https://teachers.skyeng.ru/schedue (доступ по логину и паролю).\
+Сайт: https://teachers.skyeng.ru/schedue (доступ по логину и паролю).
 
 **Основные требования:**\
 Преподаватель может добавлять и убирать информацию по личным событиям в календаре от skyeng.\
@@ -55,7 +55,7 @@
 Тест-кейсы: [Qase](https://app.qase.io/project/CW?view=1&suite=1&case=3)\
 Баги: [Jira](https://buglutter.atlassian.net/jira/software/c/projects/CR1/issues)\
 Запросы API: [Postman](https://api.postman.com/collections/26347975-106138c5-7f4b-462a-9b8c-9594f5737201?access_key=PMAT-01GXP284XAWC3SNNXZ3XNE19R7)
- Отчет по тестированию по ссылке [Qase](https://buglutter.atlassian.net/wiki/spaces/~701212f4af29fdc38433e9d8bc1b4a95f2b3a/pages/3538962/1-+2-)]\
+Отчет по тестированию по ссылке [Qase](https://buglutter.atlassian.net/wiki/spaces/~701212f4af29fdc38433e9d8bc1b4a95f2b3a/pages/3538962/1-+2-)]
 
 
 Контактная информация
