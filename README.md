@@ -86,4 +86,5 @@
 
 ## Со мной можно связаться:
 Email: eu23gen@mail.ru
-Telegram: [img src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" width="40" height="40"](https://t.me/EvgenGematogen)
+Telegram: [EvgenGematogen](https://t.me/EvgenGematogen)
+HH: [HeadHanter](https://ekaterinburg.hh.ru/resume/68852f1bff05f5f9290039ed1f715065387156)
