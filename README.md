@@ -55,7 +55,7 @@
 Тест-кейсы: [Qase](https://app.qase.io/project/CW?view=1&suite=1&case=3)\
 Баги: [Jira](https://buglutter.atlassian.net/jira/software/c/projects/CR1/issues)\
 Запросы API: [Postman](https://api.postman.com/collections/26347975-106138c5-7f4b-462a-9b8c-9594f5737201?access_key=PMAT-01GXP284XAWC3SNNXZ3XNE19R7)\
-Отчет по тестированию по ссылке [Qase](https://buglutter.atlassian.net/wiki/spaces/~701212f4af29fdc38433e9d8bc1b4a95f2b3a/pages/3538962/1-+2-)]
+Отчет по тестированию по ссылке [Qase](https://buglutter.atlassian.net/wiki/spaces/~701212f4af29fdc38433e9d8bc1b4a95f2b3a/pages/3538962/1-+2-)
 
 **Проект 2: Тестирование раздела “Видеопрактика” приложения Skyeng для Web и Mobile версии.**
 Заказчик: Skyeng.ru\
@@ -69,8 +69,7 @@
 - выполнять тестовое задание по изученному на уроке материалу
 - делиться изображениями и файлами как с помощью прямой передачи, так и с помощью "стены" с карточками
  
-[Сценарии использования](https://miro.com/app/board/uXjVMx05ON8=/?share_link_id=398451295103)\ 
-Ссылка на требования: [Требования к разделу видеопрактика](https://skyengpublic.notion.site/516dbc7548664b92895387b4c2033260) 
+[Сценарии использования](https://miro.com/app/board/uXjVMx05ON8=/?share_link_id=398451295103)  Ссылка на требования:[Требования к разделу видеопрактика](https://skyengpublic.notion.site/516dbc7548664b92895387b4c2033260) 
 
 Виды тестирования, используемые в работе:
 1. *Смоук-тест*
