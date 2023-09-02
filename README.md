@@ -20,14 +20,14 @@
 ## Мои навыки и технологии:
 Я умею работать с &nbsp;
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>,
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>,
-  <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/png/devtools-circle-128.png" width="40" height="40"/>,
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/swagger.svg" width="40" height="40"/>
-  <img src="https://logo-base.com/logo/miro_logo.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/png/devtools-circle-128.png" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/swagger.svg" width="40" height="40"/>&nbsp;
+  <img src="https://logo-base.com/logo/miro_logo.svg" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/47823040?v=4" width="40" height="40"/>
 </div>
 
