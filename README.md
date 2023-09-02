@@ -54,7 +54,7 @@
 Чек-лит проверок: [Sitechco.ru](https://chlist.sitechco.ru/project/38448/checklist)\
 Тест-кейсы: [Qase](https://app.qase.io/project/CW?view=1&suite=1&case=3)\
 Баги: [Jira](https://buglutter.atlassian.net/jira/software/c/projects/CR1/issues)\
-Запросы API: [Postman](https://api.postman.com/collections/26347975-106138c5-7f4b-462a-9b8c-9594f5737201?access_key=PMAT-01GXP284XAWC3SNNXZ3XNE19R7)
+Запросы API: [Postman](https://api.postman.com/collections/26347975-106138c5-7f4b-462a-9b8c-9594f5737201?access_key=PMAT-01GXP284XAWC3SNNXZ3XNE19R7)\
 Отчет по тестированию по ссылке [Qase](https://buglutter.atlassian.net/wiki/spaces/~701212f4af29fdc38433e9d8bc1b4a95f2b3a/pages/3538962/1-+2-)]
 
 **Проект 2: Тестирование раздела “Видеопрактика” приложения Skyeng для Web и Mobile версии.**
@@ -81,7 +81,7 @@
 **Результаты:**
 Чек-лит проверок: [Sitechco.ru](https://chlist.sitechco.ru/project/43628/checklist/1535225/detailst)\
 Баги: [Jira](https://buglutter.atlassian.net/issues/?jql=project+%3D+%22QE%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNmE0NGIwM2VlNjE0NDJmMDllMTZmMWQ5ZjQzY2JjZDAiLCJwIjoiaiJ9)\
-Запросы API: [Postman](https://api.postman.com/collections/26347975-f3b62c11-9918-4ece-bf69-f5c6720c7184?access_key=PMAT-01H7FHV0M49CVH0GCC7048N4NK)
+Запросы API: [Postman](https://api.postman.com/collections/26347975-f3b62c11-9918-4ece-bf69-f5c6720c7184?access_key=PMAT-01H7FHV0M49CVH0GCC7048N4NK)\
 Отчет по тестированию по ссылке [Qase](https://buglutter.atlassian.net/wiki/spaces/~701212f4af29fdc38433e9d8bc1b4a95f2b3a/pages/20807681)
 
 ## Со мной можно связаться:
