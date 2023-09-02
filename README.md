@@ -59,7 +59,7 @@
 
 **Проект 2: Тестирование раздела “Видеопрактика” приложения Skyeng для Web и Mobile версии.**
 Заказчик: Skyeng.ru\
-Сайт: Vimbox\
+Сайт: Vimbox
 
 **Основные требования:**
 Преподаватель должен иметь возможность подключить любого ученика в отдельную комнату для совместного прохождения видеоурока.
@@ -69,7 +69,8 @@
 - выполнять тестовое задание по изученному на уроке материалу
 - делиться изображениями и файлами как с помощью прямой передачи, так и с помощью "стены" с карточками
  
-[Сценарии использования](https://miro.com/app/board/uXjVMx05ON8=/?share_link_id=398451295103)  Ссылка на требования:[Требования к разделу видеопрактика](https://skyengpublic.notion.site/516dbc7548664b92895387b4c2033260) 
+[Сценарии использования](https://miro.com/app/board/uXjVMx05ON8=/?share_link_id=398451295103)\
+Ссылка на требования:[Требования к разделу видеопрактика](https://skyengpublic.notion.site/516dbc7548664b92895387b4c2033260) 
 
 Виды тестирования, используемые в работе:
 1. *Смоук-тест*
@@ -84,6 +85,6 @@
 Отчет по тестированию по ссылке [Qase](https://buglutter.atlassian.net/wiki/spaces/~701212f4af29fdc38433e9d8bc1b4a95f2b3a/pages/20807681)
 
 ## Со мной можно связаться:
-Email: eu23gen@mail.ru
-Telegram: [EvgenGematogen](https://t.me/EvgenGematogen)
+Email: eu23gen@mail.ru\
+Telegram: [EvgenGematogen](https://t.me/EvgenGematogen)\
 HH: [HeadHanter](https://ekaterinburg.hh.ru/resume/68852f1bff05f5f9290039ed1f715065387156)
