@@ -39,7 +39,7 @@
 
 **Основные требования:**\
 Преподаватель может добавлять и убирать информацию по личным событиям в календаре от skyeng.\
-Ссылка на требования: [Документация к проекту](https://skyengpublic.notion.site/6746e543d02c43879de0057cafe196b0/ "Личные события")
+Ссылка на требования: [Документация к проекту](https://drive.google.com/file/d/1O5qZ84O8_Lhv3SD9QnS6VhLRt-JSfSzh/view?usp=drive_link)
 
 **Виды тестирования, используемые в работе:**
 1. *Тестирование документации*
@@ -51,9 +51,9 @@
 7. *Тестирование API*
 
 **Результаты:**
-Чек-лит проверок: [Sitechco.ru](https://chlist.sitechco.ru/project/38448/checklist)\
+Чек-лит проверок: [Sitechco.ru](https://drive.google.com/file/d/1AMD493gjDeq_DbCWLNuqIHPwiY6pw9AH/view?usp=drive_link)\
 Тест-кейсы: [Qase](https://app.qase.io/project/CW?view=1&suite=1&case=3)\
-Баги: [Jira](https://buglutter.atlassian.net/jira/software/c/projects/CR1/issues)\
+Баги: [Jira](https://docs.google.com/document/d/1owocqInqKL1MQD82bFDzWc6C__wzMqQs/edit?usp=drive_link&ouid=117107343559633370026&rtpof=true&sd=true)\
 Запросы API: [Postman](https://api.postman.com/collections/26347975-106138c5-7f4b-462a-9b8c-9594f5737201?access_key=PMAT-01GXP284XAWC3SNNXZ3XNE19R7)\
 Отчет по тестированию по ссылке [Qase](https://buglutter.atlassian.net/wiki/spaces/~701212f4af29fdc38433e9d8bc1b4a95f2b3a/pages/3538962/1-+2-)
 
