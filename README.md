@@ -54,8 +54,8 @@
 Чек-лит проверок: [Sitechco.ru](https://drive.google.com/file/d/1AMD493gjDeq_DbCWLNuqIHPwiY6pw9AH/view?usp=drive_link)\
 Тест-кейсы: [Qase](https://app.qase.io/project/CW?view=1&suite=1&case=3)\
 Баги: [Jira](https://docs.google.com/document/d/1owocqInqKL1MQD82bFDzWc6C__wzMqQs/edit?usp=drive_link&ouid=117107343559633370026&rtpof=true&sd=true)\
-Запросы API: [Postman](https://api.postman.com/collections/26347975-106138c5-7f4b-462a-9b8c-9594f5737201?access_key=PMAT-01GXP284XAWC3SNNXZ3XNE19R7)\
-Отчет по тестированию по ссылке [Qase](https://buglutter.atlassian.net/wiki/spaces/~701212f4af29fdc38433e9d8bc1b4a95f2b3a/pages/3538962/1-+2-)
+Запросы API: [Postman](https://drive.google.com/file/d/1bKN565mD_KjWsBVJ1KfK4UqhMSyvIcBl/view?usp=drive_link)\
+Отчет по тестированию по ссылке [Qase](https://drive.google.com/file/d/1I6OhG8JXEwDEGJnc_tm0BAApfPpPB63V/view?usp=drive_link)
 
 **Проект 2: Тестирование раздела “Видеопрактика” приложения Skyeng для Web и Mobile версии.**\
 Заказчик: *Skyeng.ru*\
@@ -69,8 +69,8 @@
 - выполнять тестовое задание по изученному на уроке материалу
 - делиться изображениями и файлами как с помощью прямой передачи, так и с помощью "стены" с карточками
  
-[Сценарии использования](https://miro.com/app/board/uXjVMx05ON8=/?share_link_id=398451295103) в <img src="https://logo-base.com/logo/miro_logo.svg" width="40" height="40"/>\
-Ссылка на требования:[Требования к разделу видеопрактика](https://skyengpublic.notion.site/516dbc7548664b92895387b4c2033260) 
+[Сценарии использования](https://drive.google.com/file/d/1WpMK5otT39l1YGqYoPlmddiqKuES_knh/view?usp=drive_link) в <img src="https://logo-base.com/logo/miro_logo.svg" width="40" height="40"/>\
+Ссылка на требования:[Требования к разделу видеопрактика](https://drive.google.com/file/d/1QtrHXECSsUr4oaSNSqhPdtHPn1DytGCV/view?usp=drive_link) 
 
 Виды тестирования, используемые в работе:
 1. *Смоук-тест*
@@ -79,10 +79,10 @@
 4. *Тестирование API*
 
 **Результаты:**
-Чек-лит проверок: [Sitechco.ru](https://chlist.sitechco.ru/project/43628/checklist/1535225/detailst)\
-Баги: [Jira](https://buglutter.atlassian.net/issues/?jql=project+%3D+%22QE%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNmE0NGIwM2VlNjE0NDJmMDllMTZmMWQ5ZjQzY2JjZDAiLCJwIjoiaiJ9)\
-Запросы API: [Postman](https://api.postman.com/collections/26347975-f3b62c11-9918-4ece-bf69-f5c6720c7184?access_key=PMAT-01H7FHV0M49CVH0GCC7048N4NK)\
-Отчет по тестированию по ссылке [Qase](https://buglutter.atlassian.net/wiki/spaces/~701212f4af29fdc38433e9d8bc1b4a95f2b3a/pages/20807681)
+Чек-лит проверок: [Sitechco.ru](https://drive.google.com/file/d/1KsyMD7EbpoydZzryzfSMwyUxO5XuB6je/view?usp=drive_link)\
+Баги: [Jira](https://docs.google.com/document/d/1EA_zSDc_DNVorJ1fYGFVyv1_PeSf_Plm/edit?usp=drive_link&ouid=117107343559633370026&rtpof=true&sd=true)\
+Запросы API: [Postman](https://drive.google.com/file/d/1JQmhQNPSLEOfzyX5Cdibl5Uwkp6qf8UJ/view?usp=drive_link)\
+Отчет по тестированию по ссылке [Qase](https://drive.google.com/file/d/1nii2ZI8zZx19HuXHNoofnu2uiCRwz6E2/view?usp=drive_link)
 
 ## Со мной можно связаться:
 Email: eu23gen@mail.ru\
