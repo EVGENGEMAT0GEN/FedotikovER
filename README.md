@@ -67,7 +67,7 @@
 - выполнять тестовое задание по изученному на уроке материалу
 - делиться изображениями и файлами как с помощью прямой передачи, так и с помощью "стены" с карточками
  
-[Сценарии использования](https://drive.google.com/file/d/1WpMK5otT39l1YGqYoPlmddiqKuES_knh/view?usp=drive_link) в <img src="https://logo-base.com/logo/miro_logo.svg" width="40" height="40"/>\  
+[Сценарии использования](https://drive.google.com/file/d/1WpMK5otT39l1YGqYoPlmddiqKuES_knh/view?usp=drive_link) в <img src="https://logo-base.com/logo/miro_logo.svg" width="40" height="40"/>  
 Ссылка на требования:  [Требования к разделу видеопрактика](https://drive.google.com/file/d/1QtrHXECSsUr4oaSNSqhPdtHPn1DytGCV/view?usp=drive_link) 
 
 Виды тестирования, используемые в работе:
