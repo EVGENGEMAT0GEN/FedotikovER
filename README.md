@@ -31,8 +31,8 @@
 
 
 ## Проекты:
-**Проект 1: Тестирование раздела "Календарь событий для учителей" WEB-приложения платформы skyeng.**\
-Заказчик: *Skyeng.ru*\
+**Проект 1: Тестирование раздела "Календарь событий для учителей" WEB-приложения платформы skyeng.**
+Заказчик: *Skyeng.ru*
 Сайт: https://teachers.skyeng.ru/schedue (доступ по логину и паролю).
 
 **Основные требования:**\
@@ -49,14 +49,14 @@
 7. *Тестирование API*
 
 **Результаты:**
-Чек-лит проверок: [Sitechco.ru](https://drive.google.com/file/d/1AMD493gjDeq_DbCWLNuqIHPwiY6pw9AH/view?usp=drive_link)\
-Тест-кейсы: [Qase](https://app.qase.io/project/CW?view=1&suite=1&case=3)\
-Баги: [Jira](https://docs.google.com/document/d/1owocqInqKL1MQD82bFDzWc6C__wzMqQs/edit?usp=drive_link&ouid=117107343559633370026&rtpof=true&sd=true)\
-Запросы API: [Postman](https://drive.google.com/file/d/1bKN565mD_KjWsBVJ1KfK4UqhMSyvIcBl/view?usp=drive_link)\
-Отчет по тестированию по ссылке [Qase](https://drive.google.com/file/d/1I6OhG8JXEwDEGJnc_tm0BAApfPpPB63V/view?usp=drive_link)
+Чек-лит проверок: [Sitechco.ru](https://drive.google.com/file/d/1AMD493gjDeq_DbCWLNuqIHPwiY6pw9AH/view?usp=drive_link)  
+Тест-кейсы: [Qase](https://app.qase.io/project/CW?view=1&suite=1&case=3)  
+Баги: [Jira](https://docs.google.com/document/d/1owocqInqKL1MQD82bFDzWc6C__wzMqQs/edit?usp=drive_link&ouid=117107343559633370026&rtpof=true&sd=true)  
+Запросы API: [Postman](https://drive.google.com/file/d/1bKN565mD_KjWsBVJ1KfK4UqhMSyvIcBl/view?usp=drive_link)  
+Отчет по тестированию по ссылке [Qase](https://drive.google.com/file/d/1I6OhG8JXEwDEGJnc_tm0BAApfPpPB63V/view?usp=drive_link)  
 
 **Проект 2: Тестирование раздела “Видеопрактика” приложения Skyeng для Web и Mobile версии.**\
-Заказчик: *Skyeng.ru*\
+Заказчик: *Skyeng.ru*  
 Сайт: *Vimbox*
 
 **Основные требования:**
@@ -76,13 +76,13 @@
 3. *Тестирование прерываний (Для моб версии)*
 4. *Тестирование API*
 
-**Результаты:**
-Чек-лит проверок: [Sitechco.ru](https://drive.google.com/file/d/1KsyMD7EbpoydZzryzfSMwyUxO5XuB6je/view?usp=drive_link)\
-Баги: [Jira](https://docs.google.com/document/d/1EA_zSDc_DNVorJ1fYGFVyv1_PeSf_Plm/edit?usp=drive_link&ouid=117107343559633370026&rtpof=true&sd=true)\
-Запросы API: [Postman](https://drive.google.com/file/d/1JQmhQNPSLEOfzyX5Cdibl5Uwkp6qf8UJ/view?usp=drive_link)\
-Отчет по тестированию по ссылке: [Qase](https://drive.google.com/file/d/1nii2ZI8zZx19HuXHNoofnu2uiCRwz6E2/view?usp=drive_link)
+**Результаты:**  
+Чек-лит проверок: [Sitechco.ru](https://drive.google.com/file/d/1KsyMD7EbpoydZzryzfSMwyUxO5XuB6je/view?usp=drive_link)  
+Баги: [Jira](https://docs.google.com/document/d/1EA_zSDc_DNVorJ1fYGFVyv1_PeSf_Plm/edit?usp=drive_link&ouid=117107343559633370026&rtpof=true&sd=true)  
+Запросы API: [Postman](https://drive.google.com/file/d/1JQmhQNPSLEOfzyX5Cdibl5Uwkp6qf8UJ/view?usp=drive_link)  
+Отчет по тестированию по ссылке: [Qase](https://drive.google.com/file/d/1nii2ZI8zZx19HuXHNoofnu2uiCRwz6E2/view?usp=drive_link)  
 
 ## Со мной можно связаться:
-Email: eu23gen@mail.ru\
-Telegram: [EvgenGematogen](https://t.me/EvgenGematogen)\
+Email: eu23gen@mail.ru  
+Telegram: [EvgenGematogen](https://t.me/EvgenGematogen)  
 HH: [HeadHanter](https://ekaterinburg.hh.ru/resume/68852f1bff05f5f9290039ed1f715065387156)
