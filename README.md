@@ -67,8 +67,8 @@
 - выполнять тестовое задание по изученному на уроке материалу
 - делиться изображениями и файлами как с помощью прямой передачи, так и с помощью "стены" с карточками
  
-[Сценарии использования](https://drive.google.com/file/d/1WpMK5otT39l1YGqYoPlmddiqKuES_knh/view?usp=drive_link) в <img src="https://logo-base.com/logo/miro_logo.svg" width="40" height="40"/>\
-Ссылка на требования:[Требования к разделу видеопрактика](https://drive.google.com/file/d/1QtrHXECSsUr4oaSNSqhPdtHPn1DytGCV/view?usp=drive_link) 
+[Сценарии использования](https://drive.google.com/file/d/1WpMK5otT39l1YGqYoPlmddiqKuES_knh/view?usp=drive_link) в <img src="https://logo-base.com/logo/miro_logo.svg" width="40" height="40"/>\  
+Ссылка на требования:  [Требования к разделу видеопрактика](https://drive.google.com/file/d/1QtrHXECSsUr4oaSNSqhPdtHPn1DytGCV/view?usp=drive_link) 
 
 Виды тестирования, используемые в работе:
 1. *Смоук-тест*
@@ -80,7 +80,7 @@
 Чек-лит проверок: [Sitechco.ru](https://drive.google.com/file/d/1KsyMD7EbpoydZzryzfSMwyUxO5XuB6je/view?usp=drive_link)\
 Баги: [Jira](https://docs.google.com/document/d/1EA_zSDc_DNVorJ1fYGFVyv1_PeSf_Plm/edit?usp=drive_link&ouid=117107343559633370026&rtpof=true&sd=true)\
 Запросы API: [Postman](https://drive.google.com/file/d/1JQmhQNPSLEOfzyX5Cdibl5Uwkp6qf8UJ/view?usp=drive_link)\
-Отчет по тестированию по ссылке [Qase](https://drive.google.com/file/d/1nii2ZI8zZx19HuXHNoofnu2uiCRwz6E2/view?usp=drive_link)
+Отчет по тестированию по ссылке: [Qase](https://drive.google.com/file/d/1nii2ZI8zZx19HuXHNoofnu2uiCRwz6E2/view?usp=drive_link)
 
 ## Со мной можно связаться:
 Email: eu23gen@mail.ru\
